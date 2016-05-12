@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/zhenhuaz/Documents/R/win-library/3.2/rJava/jri/JRI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhenhuaz/Documents/R/win-library/3.2/rJava/jri/JRIEngine.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zhenhuaz/Documents/R/win-library/3.2/rJava/jri/REngine.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse-standard-luna-SR2-win32-x86_64/Border crossing/borderwaitingtimeprediction/Jar/matlabcontrol-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse-standard-luna-SR2-win32-x86_64/Border crossing/borderwaitingtimeprediction/Jar/wunderground-core-1.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse-standard-luna-SR2-win32-x86_64/Border crossing/borderwaitingtimeprediction/Jar/mysql-connector-java-5.1.38-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
